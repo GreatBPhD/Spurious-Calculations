@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Ignore dataset files (Excel, CSV, JSON, XML)
+*.csv
+*.xlsx
+*.xls
+*.json
+*.xml
+*.h5
